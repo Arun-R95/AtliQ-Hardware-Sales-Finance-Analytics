@@ -76,4 +76,3 @@ I'd love to hear your thoughts and feedback. If you have suggestions or question
 
 ---
 
-#Excel #MicrosoftExcel #PowerQuery #PowerPivot #DAX #DataAnalytics #BusinessAnalytics #SalesAnalytics #FinancialAnalytics #DataVisualization #Dashboard #AnalyticsPortfolio #Codebasics #DataDriven #BusinessIntelligence #ExcelProject
