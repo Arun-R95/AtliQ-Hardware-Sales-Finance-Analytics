@@ -221,6 +221,8 @@ Top performers:
 # 📁 Repository Structure
 
 ```text
+├── assets/
+│   └── ERD_diagram1.png
 ├── reports/
 │   ├── Customer_Performance_Report.pdf
 │   ├── Market_Performance_Vs_Target_Report.pdf
@@ -234,10 +236,6 @@ Top performers:
 │   ├── Top_10_Products.pdf
 │   ├── New_Product-2021.pdf
 │   └── Whole_Report.pdf
-│
-├── assets/
-│   └── ERD_diagram1.png
-│
 └── README.md
 ```
 
