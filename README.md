@@ -250,6 +250,9 @@ Special thanks to the **Codebasics** team, especially **Dhaval Patel** and **Hem
 # 📬 Connect With Me
 
 If you have any feedback, suggestions, or would like to discuss this project, feel free to connect.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Codebasics-orange?style=for-the-badge&logo=googlechrome)](https://codebasics.io/portfolio/Arun-R)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20R-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arun-r95/)
+[![GitHub](https://img.shields.io/badge/GitHub-Arun--R95-black?style=for-the-badge&logo=github)](https://github.com/Arun-R95)
 
 ⭐ If you found this project helpful, consider giving the repository a **Star**.
 
