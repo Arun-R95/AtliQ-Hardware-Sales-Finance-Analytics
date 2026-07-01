@@ -59,7 +59,7 @@ A **star-schema** data model was created in **Power Pivot**.
 
 ### ERD
 
-![ERD Diagram](assets/ERD diagram1.png)
+![ERD Diagram](https://github.com/Arun-R95/AtliQ-Hardware-Sales-Finance-Analytics/blob/97bd589cfdd25acd3425d4394031601772f8715b/assets/ERD%20diagram1.png)
 
 Relationships are one-to-many from each dimension table into the central fact table, enabling fast filtering across customers, products, markets, and fiscal periods.
 
